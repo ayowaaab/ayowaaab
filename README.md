@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Next JS<br>🎯 Goals: Create my own Startup</p>
+<p align="left">📚 I'm currently learning Next JS<br>🎯 Goals: Create my own Startup | learning web 4.0 </p>
 
 ###
 
