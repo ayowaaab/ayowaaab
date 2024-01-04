@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next JS<br>🎯 Goals: Create my own Startup | learning web 4.0 </p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Next JS<br>🎯 Goals: Create my own Startup</p>
 
 ###
 
@@ -36,6 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
