@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next JS<br>🎯 Goals: Create my own Startup</p>
+<p align="left">📚 I'm currently learning Next JS<br>🎯 Goals: Keeping Up</p>
 
 ###
 
