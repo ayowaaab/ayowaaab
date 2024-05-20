@@ -1,9 +1,3 @@
-<div align="center">
-  <img width="300"  src="https://github.com/ayowaaab/ayowaaab/assets/101057048/87b15804-a2a0-40d2-83eb-6f5e8c5feae1"  />
-
-
-</div>
-
 ###
 
 <div align="center">
@@ -32,7 +26,9 @@
 <h1 align="center">Hey there 👋</h1>
 
 ###
-
+<div align="center">
+  <img width="300"  src="https://github.com/ayowaaab/ayowaaab/assets/101057048/87b15804-a2a0-40d2-83eb-6f5e8c5feae1"  />
+</div>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
