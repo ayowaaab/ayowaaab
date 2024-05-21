@@ -30,9 +30,8 @@
 
 ###
 
-<p align="left">I'm Ayoub from Tunisia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning NextJS<br>- ⚡ In my free time I Make ui designs</p>
-
-###
+<p align="left">I'm Ayoub from Tunisia<br><br>• 🎓 Education: Engineering Student<br>• 📚 Learning Focus: Currently diving into NextJS and expanding my backend development skills.<br>• ⚡ Free Time: Passionate about UI design, exploring new technologies, and enjoying movies.</p>
+<h4 align="center">I am always eager to learn and embrace new challenges in the tech world. Let's connect and collaborate on exciting projects!</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
